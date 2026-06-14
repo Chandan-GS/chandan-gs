@@ -9,31 +9,34 @@
 <img src="https://komarev.com/ghpvc/?username=chandan-gs&style=flat-square&color=6366f1&label=views"/>
 
 </div>
-
+<br/>
+<div align = "center">
 <br/>
 
-```kotlin
-val chandan = Developer(
-    focus      = listOf("Flutter", "Native Android", "Edge AI"),
-    philosophy = "The network is a bonus, not a requirement.",
-    building   = "offline-first apps with on-device inference"
-)
-```
+I build mobile apps that work without the internet — and get smarter when they have it.  
+Currently focused on **Flutter**, **native Android**, and squeezing **AI** onto the device.
 
 <br/>
-
-<div align="center">
-
-| 🧠 **CRUX** | 👁️ **ProxVision** | 🔵 **Ringss** | 🎯 **Focus** |
-|---|---|---|---|
-| PDF → multiplayer trivia | accessibility, fully offline | 3-tier social network | app blocker that survives kills |
-| `Flutter` `Qwen 2.5` `Firebase` | `Flutter` `TFLite` `WebRTC` | `Flutter` `GetX` `Supabase` | `Kotlin` `Jetpack Compose` |
-
 </div>
-
 <br/>
 
-<div align="">
+<a href="https://github.com/chandan-gs/crux.app">
+  <img src="CRUX_logo_icon.png" width="48" height="48" align="left" style="border-radius:12px; margin-right:16px"/>
+</a>
+
+**[CRUX](https://github.com/chandan-gs/crux.app)** — An AI-powered quiz and trivia platform that turns any PDF or document into an interactive multiplayer game. Quiz generation runs entirely on-device using the Qwen 2.5 (0.5B) edge model, with a seamless fallback to Gemini API for complex queries. Built with an OCR pipeline, real-time multiplayer via Firestore, and daily push notifications.  
+`Flutter` `Qwen 2.5` `Gemini API` `Firebase` `Google ML Kit`
+
+<br/><br/>
+
+<a href="https://github.com/chandan-gs/ringss">
+  <img src="ringss.svg" width="48" height="48" align="left" style="border-radius:12px; margin-right:16px"/>
+</a>
+
+**[Ringss](https://github.com/chandan-gs/ringss)** — A privacy-first social networking app built around a custom three-tier content model — Private, Restricted, and Public — giving users full control over who sees what. Features reactive state management with GetX and a secure Supabase backend for auth and PostgreSQL storage.  
+`Flutter` `GetX` `Supabase` `PostgreSQL`
+
+<br/><br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -52,8 +55,6 @@ val chandan = Developer(
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
 
 <br/>
 
