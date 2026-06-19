@@ -6,7 +6,7 @@
 
 <a href="https://linkedin.com/in/chandan-gs"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:chandangs1204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=chandan-gs&style=flat-square&color=6366f1&label=views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=chandan-gs&style=flat-square&color=6366f1&label=views"/> -->
 
 </div>
 <br/>
