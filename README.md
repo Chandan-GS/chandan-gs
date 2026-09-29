@@ -29,12 +29,12 @@ Currently focused on **Flutter**, **native Android**, and squeezing **AI** onto 
 
 <br/><br/>
 
-<a href="https://github.com/chandan-gs/ringss">
-  <img src="ringss.svg" width="48" height="48" align="left" style="border-radius:12px; margin-right:16px"/>
+<a href="https://github.com/chandan-gs/Echo">
+  <img src="echo_logo_icon.png" width="48" height="48" align="left" style="border-radius:12px; margin-right:16px"/>
 </a>
 
-**[Ringss](https://github.com/chandan-gs/ringss)** — A privacy-first social networking app built around a custom three-tier content model — Private, Restricted, and Public — giving users full control over who sees what. Features reactive state management with GetX and a secure Supabase backend for auth and PostgreSQL storage.  
-`Flutter` `GetX` `Supabase` `PostgreSQL`
+**[Echo](https://github.com/chandan-gs/Echo)** · [Website](https://echo-mobileapp.vercel.app) – A privacy-first Android AI assistant that passively collects notifications, SMS, and calendar events and synthesizes them into a spoken morning briefing. Qwen 2.5 (1.5B) runs quantized fully on-device via llama.cpp at 0.9 GB, with no network after the first download. Natural-language "Ask Echo" recall and hands-free TTS, with every signal kept in an encrypted Isar database and API keys sealed in the Android Keystore.  
+`Flutter` `Qwen 2.5` `llama.cpp` `Isar` `Gemini API` `Android Keystore`
 
 <br/><br/>
 
